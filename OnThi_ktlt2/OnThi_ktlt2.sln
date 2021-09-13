@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnThi_ktlt2", "OnThi_ktlt2\OnThi_ktlt2.csproj", "{CE021CF1-C857-4E47-BA13-2AF47FF6148A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnThi_cau2", "OnThi_cau2\OnThi_cau2.csproj", "{292A19C9-BA84-4480-B941-AF073F8DB77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE021CF1-C857-4E47-BA13-2AF47FF6148A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE021CF1-C857-4E47-BA13-2AF47FF6148A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE021CF1-C857-4E47-BA13-2AF47FF6148A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE021CF1-C857-4E47-BA13-2AF47FF6148A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292A19C9-BA84-4480-B941-AF073F8DB77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292A19C9-BA84-4480-B941-AF073F8DB77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292A19C9-BA84-4480-B941-AF073F8DB77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292A19C9-BA84-4480-B941-AF073F8DB77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1D0C94-B653-4D15-A874-E1C364433AE7}
+	EndGlobalSection
+EndGlobal

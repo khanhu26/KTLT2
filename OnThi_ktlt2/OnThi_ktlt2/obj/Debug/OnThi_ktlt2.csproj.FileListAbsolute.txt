@@ -1,0 +1,7 @@
+D:\OnThi_ktlt2\OnThi_ktlt2\bin\Debug\OnThi_ktlt2.exe.config
+D:\OnThi_ktlt2\OnThi_ktlt2\bin\Debug\OnThi_ktlt2.exe
+D:\OnThi_ktlt2\OnThi_ktlt2\bin\Debug\OnThi_ktlt2.pdb
+D:\OnThi_ktlt2\OnThi_ktlt2\obj\Debug\OnThi_ktlt2.csprojAssemblyReference.cache
+D:\OnThi_ktlt2\OnThi_ktlt2\obj\Debug\OnThi_ktlt2.csproj.CoreCompileInputs.cache
+D:\OnThi_ktlt2\OnThi_ktlt2\obj\Debug\OnThi_ktlt2.exe
+D:\OnThi_ktlt2\OnThi_ktlt2\obj\Debug\OnThi_ktlt2.pdb

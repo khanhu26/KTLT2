@@ -1,0 +1,2 @@
+Thong tin cua thuoc co so luong lon nhat: 
+(1,1,01-01-01,1)
